@@ -6,4 +6,4 @@ Morris TT, Dorling D, Davies NM, Davey Smith G. Associations between school enjo
 
 The study is pre-printed on socarxiv here: https://osf.io/preprints/socarxiv/e6c37/
 
-The file "alspac_schenj_master.do" will call abd run all the files.
+The file "alspac_schenj_master.do" will call and run all the files.
